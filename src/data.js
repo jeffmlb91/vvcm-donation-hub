@@ -18,7 +18,7 @@ const data = {
       img: img1,
       title: "PayPal",
       description: "Make a payment with your PayPal Account",
-      webURL: "paypal.me/donation616796",
+      webURL: "https://www.paypal.com/paypalme/donation616796",
     },
     {
       id: 2,
