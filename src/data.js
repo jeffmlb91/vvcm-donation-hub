@@ -18,7 +18,7 @@ const data = {
       img: img1,
       title: "PayPal",
       description: "Make a payment with your PayPal Account",
-      webURL: "https://www.paypal.com/fundraiser/hub",
+      webURL: "paypal.me/donation616796",
     },
     {
       id: 2,
@@ -62,7 +62,8 @@ const data = {
       img: img7,
       title: "RBC",
       description: "Make a payment with your RBC Account",
-      webURL: "https://secure.royalbank.com/statics/login-service-ui/index#/full/signin?_ga=2.141769970.1195167264.1654432686-925965818.1653779922&_gac=1.83633892.1653779922.CjwKCAjwkMeUBhBuEiwA4hpqEFpr8xWzCjo8RL0CmFwE4ctKNb8Xos0TnHG9IKEH3VzIStrChdx0IBoCwRoQAvD_BwE&_gl=1*1e44kc9*_gcl_aw*R0NMLjE2NTM3Nzk5MjIuQ2p3S0NBandrTWVVQmhCdUVpd0E0aHBxRUZwcjh4V3pDam84UkwwQ21Gd0U0Y3RLTmI4WG9zMFRuSEc5SUtFSDNWeklTdHJDaGR4MElCb0N3Um9RQXZEX0J3RQ..&LANGUAGE=ENGLISH",
+      webURL:
+        "https://secure.royalbank.com/statics/login-service-ui/index#/full/signin?_ga=2.141769970.1195167264.1654432686-925965818.1653779922&_gac=1.83633892.1653779922.CjwKCAjwkMeUBhBuEiwA4hpqEFpr8xWzCjo8RL0CmFwE4ctKNb8Xos0TnHG9IKEH3VzIStrChdx0IBoCwRoQAvD_BwE&_gl=1*1e44kc9*_gcl_aw*R0NMLjE2NTM3Nzk5MjIuQ2p3S0NBandrTWVVQmhCdUVpd0E0aHBxRUZwcjh4V3pDam84UkwwQ21Gd0U0Y3RLTmI4WG9zMFRuSEc5SUtFSDNWeklTdHJDaGR4MElCb0N3Um9RQXZEX0J3RQ..&LANGUAGE=ENGLISH",
     },
     {
       id: 8,
@@ -77,21 +78,24 @@ const data = {
       img: img9,
       title: "TD",
       description: "Make a payment with your TD Account",
-      webURL: "https://authentication.td.com/uap-ui/?consumer=easyweb&locale=en_CA&goto=https://easyweb.td.com/waw/ezw/CIPLoginRedirect&execution=e1s1#/uap/login",
+      webURL:
+        "https://authentication.td.com/uap-ui/?consumer=easyweb&locale=en_CA&goto=https://easyweb.td.com/waw/ezw/CIPLoginRedirect&execution=e1s1#/uap/login",
     },
     {
       id: 10,
       img: img10,
       title: "American Express",
       description: "Make a payment with your AMEX Account",
-      webURL: "https://www.americanexpress.com/en-us/account/login?inav=iNavLnkLog",
+      webURL:
+        "https://www.americanexpress.com/en-us/account/login?inav=iNavLnkLog",
     },
     {
       id: 11,
       img: img11,
       title: "Wells Fargo",
       description: "Make a payment with your Wells Fargo Account",
-      webURL: "https://connect.secure.wellsfargo.com/auth/login/present?origin=cob",
+      webURL:
+        "https://connect.secure.wellsfargo.com/auth/login/present?origin=cob",
     },
     {
       id: 12,
